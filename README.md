@@ -1,1 +1,3 @@
 # SquidBricks
+
+![SquidBricks](SquidBricks.png)
